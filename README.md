@@ -73,3 +73,12 @@ Learning, clarity, and consistency are the priorities.
 
 ---
 
+## 🧪 Experiments & Progress
+
+This section lists the experiments and concepts covered so far.
+It is updated **daily** as part of the learning process.
+
+### 🟦 Machine Learning – Fundamentals
+- [1] Mean, Median, Variance
+- [2] Standard Deviation & Normal Distribution
+

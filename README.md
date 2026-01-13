@@ -82,3 +82,4 @@ It is updated **daily** as part of the learning process.
 - [1] Mean, Median, Variance
 - [2] Standard Deviation & Normal Distribution
 - [3] Covariance vs Correlation
+- [4] Vector & Matrix Operations

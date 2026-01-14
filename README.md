@@ -85,3 +85,4 @@ It is updated **daily** as part of the learning process.
 - [4] Vector & Matrix Operations
 - [5] Dot Product
 - [6] Cost/ Loss Function Intuition
+- [7] Gradient Descent

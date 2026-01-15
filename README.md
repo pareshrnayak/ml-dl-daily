@@ -86,3 +86,6 @@ It is updated **daily** as part of the learning process.
 - [5] Dot Product
 - [6] Cost/ Loss Function Intuition
 - [7] Gradient Descent
+
+### 🟩 Machine Learning – Regression
+

@@ -88,4 +88,4 @@ It is updated **daily** as part of the learning process.
 - [7] Gradient Descent
 
 ### 🟩 Machine Learning – Regression
-
+- [8] Simple Linear Regression (From Scratch)
